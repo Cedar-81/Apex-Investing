@@ -33,7 +33,7 @@ function App() {
         </div>
       </nav>
 
-      <main className='space-y-10 sm:space-y-16 md:space-y-20'>
+      <main className='space-y-[6rem] md:space-y-[10rem]'>
         <section className='relative h-[60vh] min-h-[400px] w-full flex items-center justify-center'>
           <img src="./heroimg.jpg" alt="people analyzing financial documents" className='absolute left-0 h-full object-cover top-0 w-full' />
           <div className='w-full h-full absolute bg-black/40 top-0 left-0' />
